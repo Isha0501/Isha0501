@@ -1,36 +1,43 @@
-## Hi, I'm Isha! 🚀✨
+# 🚀 Hi, I'm Isha! | Data Scientist & AI Researcher
+### [cite_start]🎓 MS in Data Science @ Northeastern University (4.0 GPA) [cite: 7, 10]
 
-I'm a Data Science student and Software Engineer who loves turning "What if?" into "It works!" I specialize in bridging the gap between complex Machine Learning research and real-world deployment.
+I’m a builder who loves turning "What if?" into "It works!" I specialize in bridging the gap between complex Machine Learning research and real-world deployment. Whether it’s optimizing **MLOps pipelines**, navigating **GPS-denied forests**, or building **AI-powered music recommenders**, I live for the challenge of finding the signal in the noise.
 
-## 🧪 Current Experiments in the Lab
-⚖️ Court Access AI: I'm currently building DAG pipelines to automate legal document scraping and reconstruction—making the law more accessible, one script at a time.
+---
 
-📈 MLOps Labs: Documenting my journey through the world of production-grade ML—think versioning, scaling, and making models stay "smart" in the wild.
+### 🧪 Current Experiments in the Lab
+* **🎧 MoodMap:** An intelligent web app that translates abstract feelings into a personalized Spotify frequency vector for pinpoint recommendations.
+* **⚖️ Court Access AI:** Building DAG pipelines to automate legal document scraping and layout reconstruction to make the law more accessible.
+* **🏗️ MLOps @ NEU:** Currently mastering production-grade ML—focusing on scalability, versioning, and building robust pipelines in Spring 2026.
 
-🎧 MoodMap: An intelligent web app that translates your abstract feelings into the perfect Spotify frequency vector. No more scrolling for the right vibe!
+### 🛠️ The Technical Toolkit
+* [cite_start]**Languages:** `Python`, `R`, `Java`, `C++`, `SQL`, `HTML/CSS`, `JavaScript`[cite: 18].
+* [cite_start]**Frameworks & Tools:** `PyTorch`, `CatBoost`, `AWS`, `Power BI`, `MySQL`, `MongoDB`, `Spring Boot`[cite: 20].
+* [cite_start]**Certifications:** AWS Cloud Practitioner, AWS AI Practitioner, and Certified Ethical Hacker (CEH)[cite: 20].
 
+### 📚 Published Research & Achievements
+* [cite_start]**🌲 Smart Forest Navigation:** Developed a LoRa-based pathfinding system for GPS-denied environments (Published in *IEEE Access*, IF: 3.9)[cite: 32, 36].
+* [cite_start]**🌽 Crop Yield Prediction:** Built a multi-source model achieving a **95.5% R² score** using Random Forest (Published in *IEEE Xplore*)[cite: 43, 47, 48].
+* [cite_start]**✍️ Tamil Character Recognition:** Created an OCR system for handwritten vowels using CatBoost and Optuna (Published in *IEEE Xplore*)[cite: 37, 39, 40].
+* [cite_start]**🏥 Healthcare PPDM:** Researched privacy-protected data mining and CNNs for medical image classification[cite: 41, 42].
 
-## 🛠️ The Toolkit
-Languages: Python, R, SQL, and a bit of JavaScript for when things need to look pretty.
+### 🌟 Career Highlights
+* [cite_start]**Data Engineering:** Mapped 300+ pharmaceutical attributes for Master Data Management at Slipstream Life Sciences (Formerly Slipstream-IT)[cite: 22, 25].
+* [cite_start]**Optimization:** Reduced troubleshooting time by **35%** across 1M+ product records using Azure Data Studio[cite: 26].
+* [cite_start]**Impact:** Contributed to 20 successful hires that expanded a startup's headcount by **40%**[cite: 30].
 
-Core Tech: NLP (NLLB-200, Llama 4), MLOps, Computer Vision (OCR), and Cloud Architecture.
+---
 
-Superpowers: Debugging complex logic, decoding ciphers in ARGs, and finding the signal in the noise.
+### 🌈 Beyond the Code
+* **Digital Riddles:** When I’m not coding, I’m hunting for flags in ARGs or decoding ciphers.
+* **Minimalist Design:** I have a deep appreciation for line art that conveys independence and focus.
 
+**📫 Let's connect!**
+I'm always down to chat about Data Science, cool research papers, or the latest tech riddle you've found.
 
-## 📚 Published Research & Achievements
-> [!NOTE]
-> View my full research portfolio on [**Google Scholar** 🎓](https://scholar.google.com/citations?user=sZTbEdkAAAAJ&hl=en)
+[**Google Scholar 🎓**](https://scholar.google.com/citations?user=sZTbEdkAAAAJ&hl=en) | [**LinkedIn 👔**](https://www.linkedin.com/in/isha-nevatia-58531521a/)
 
-Crop Yield Prediction: Developed a multi-attributive algorithm presented at IEEE INDISCON 2025.
-
-Tamil Character Recognition: Worked on shape-based feature recognition using CatBoost (ICCUBEA-2023).
-
-
-## 🌈 When I'm Not Coding...
-You can find me solving technical riddles, admiring minimalist line art, or figuring out how to automate the boring stuff so I can get back to the fun stuff.
-
-## 📫 Want to collaborate on something cool?
-Whether it's a new ML pipeline, a creative data project, or just a really hard puzzle—let’s chat!
-
-![Isha's Stats](https://github-readme-stats.vercel.app/api?username=Isha0501&show_icons=true&theme=transparent)
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha0501&layout=compact&theme=vision-friendly-dark" alt="Isha's Top Langs" />
+</p>
