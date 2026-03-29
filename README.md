@@ -20,7 +20,7 @@ Superpowers: Debugging complex logic, decoding ciphers in ARGs, and finding the 
 
 ## 📚 Published Research & Achievements
 > [!NOTE]
-> View my full research portfolio on [**Google Scholar** 🎓](YOUR_GOOGLE_SCHOLAR_URL_HERE)
+> View my full research portfolio on [**Google Scholar** 🎓](https://scholar.google.com/citations?user=sZTbEdkAAAAJ&hl=en)
 
 Crop Yield Prediction: Developed a multi-attributive algorithm presented at IEEE INDISCON 2025.
 
