@@ -6,10 +6,10 @@ I’m a builder who loves turning "What if?" into "It works!" I specialize in br
 ---
 
 ### 🧪 Current Experiments in the Lab
-* **🎧 MoodMap:** An intelligent web app that translates abstract feelings into a personalized Spotify frequency vector for pinpoint recommendations.
 * **⚖️ Court Access AI:** Building DAG pipelines to automate legal document scraping and layout reconstruction to make the law more accessible.
 * **🏗️ MLOps @ NEU:** Currently mastering production-grade ML—focusing on scalability, versioning, and building robust pipelines in Spring 2026.
-
+* **🎧 MoodMap:** An intelligent web app that translates abstract feelings into a personalized Spotify frequency vector for pinpoint recommendations.
+  
 ### 🛠️ The Technical Toolkit
 *  **Languages:** `Python`, `R`, `Java`, `C++`, `SQL`, `HTML/CSS`, `JavaScript`
 *  **Frameworks & Tools:** `PyTorch`, `CatBoost`, `AWS`, `Power BI`, `MySQL`, `MongoDB`, `Spring Boot`
