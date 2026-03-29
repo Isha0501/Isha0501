@@ -17,8 +17,6 @@ Core Tech: NLP (NLLB-200, Llama 4), MLOps, Computer Vision (OCR), and Cloud Arch
 
 Superpowers: Debugging complex logic, decoding ciphers in ARGs, and finding the signal in the noise.
 
-![Isha's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isha0501&layout=compact&theme=vision-friendly-dark)
-
 
 ## 📚 Published Research & Achievements
 > [!NOTE]
@@ -35,4 +33,4 @@ You can find me solving technical riddles, admiring minimalist line art, or figu
 ## 📫 Want to collaborate on something cool?
 Whether it's a new ML pipeline, a creative data project, or just a really hard puzzle—let’s chat!
 
-![Isha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isha0501&show_icons=true&theme=radical)
+![Isha's Stats](https://github-readme-stats.vercel.app/api?username=Isha0501&show_icons=true&theme=transparent)
