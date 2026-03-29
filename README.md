@@ -21,11 +21,6 @@ I’m a builder who loves turning "What if?" into "It works!" I specialize in br
 *  **✍️ Tamil Character Recognition:** Created an OCR system for handwritten vowels using CatBoost and Optuna (Published in *IEEE Xplore*)
 *  **🏥 Healthcare PPDM:** Researched privacy-protected data mining and CNNs for medical image classification
 
-### 🌟 Career Highlights
-*  **Data Engineering:** Mapped 300+ pharmaceutical attributes for Master Data Management at Slipstream Life Sciences (Formerly Slipstream-IT)
-*  **Optimization:** Reduced troubleshooting time by **35%** across 1M+ product records using Azure Data Studio
-*  **Impact:** Contributed to 20 successful hires that expanded a startup's headcount by **40%**
-
 ---
 
 ### 🌈 Beyond the Code
