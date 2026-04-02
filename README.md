@@ -36,8 +36,8 @@ Most people pick a lane. I picked several. I've built predictive maintenance sys
 | | Paper | Venue | Highlight |
 |---|---|---|---|
 | 🌲 | [Smart Forest Navigation System Using LoRa and Dynamic Pathfinding](https://ieeexplore.ieee.org/abstract/document/11037668) | **IEEE Access** (IF: 3.9) | LoRa + EKF sensor fusion + D* Lite pathfinding for GPS-denied environments |
-| 🌽 | [Multi-Attributive Crop Yield Prediction — A Comprehensive Analysis](https://ieeexplore.ieee.org/document/11253730) | **IEEE Xplore** | 95.5% R² using Random Forest on novel multi-source dataset |
-| ✍️ | [Categorical Boosting Machine for Tamil OCR Using Shape Based Features](https://ieeexplore.ieee.org/document/10392044) | **IEEE Xplore** | 84.36% accuracy on handwritten Tamil vowel recognition using CatBoost + Optuna |
+| 🌽 | [Multi-Attributive Crop Yield Prediction — A Comprehensive Analysis](https://github.com/Isha0501/Multi-Attributive-Crop-Yield-Prediction) | **IEEE Xplore** | 95.5% R² using Random Forest on novel multi-source dataset |
+| ✍️ | [Categorical Boosting Machine for Tamil OCR Using Shape Based Features](https://github.com/Isha0501/Categorical-Boosting-Machine-for-Tamil-Character-Recognition-using-Shape-based-Features) | **IEEE Xplore** | 84.36% accuracy on handwritten Tamil vowel recognition using CatBoost + Optuna |
 | 🏥 | [Privacy-Protected Data Mining and CNN for E-Healthcare Systems](https://ieeexplore.ieee.org/abstract/document/10923973) | **IEEE Xplore** | PPDM techniques using CNNs for optimal data extraction and disease image classification |
 
 📖 Full list on [Google Scholar](https://scholar.google.com/citations?user=sZTbEdkAAAAJ&hl=en)
