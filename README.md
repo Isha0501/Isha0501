@@ -60,4 +60,4 @@ Whether you want to geek out over a research paper, debate model architectures, 
 
 ---
 
-👀 Psst - Secret section for recruiters only: you've officially out-scrolled 90% of GitHub visitors. Here's your reward: [CLICK ME!](https://drive.google.com/file/d/13J0gBQxMy8CJyi0JGP1JfANyO8R-vc0n/view?usp=sharing) — no scrolling required ;)
+👀 Psst - Secret section for recruiters only: you've officially out-scrolled 90% of GitHub visitors. Here's your reward: [CLICK ME!](https://drive.google.com/file/d/1urFM05IcVjfsR-tEw1tywTNvxRFb-AJG/view?usp=sharing) — no scrolling required ;)
