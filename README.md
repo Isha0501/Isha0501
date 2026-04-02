@@ -11,10 +11,10 @@ Most people pick a lane. I picked several. I've built predictive maintenance sys
 
 | Project | Stack | Description |
 |---|---|---|
-| ⚖️ **[CourtAccess AI](https://github.com/Isha0501/court-access-ai)** | Airflow, Docker, GCP, NLLB-200, PaddleOCR, spaCy | MLOps platform for the Massachusetts Trial Court — 3 production DAGs, OCR → translation → PDF reconstruction pipeline (92% context accuracy, 98% legal term accuracy) |
+| ⚖️ **[CourtAccess AI](https://github.com/Isha0501/court-access-ai)** | Airflow, Docker, GCP, NLLB-200, Llama 4, PaddleOCR | MLOps platform for the Massachusetts Trial Court — 3 production DAGs, OCR → translation → PDF reconstruction pipeline (92% context accuracy, 98% legal term accuracy) |
 | 🏗️ **[Caterpillar Machine Health Monitor](https://github.com/Isha0501/Caterpillar_Hackathon)** | XGBoost, Streamlit, Plotly, Twilio | 99.61% accuracy predictive maintenance system built in 24hrs — invited to interview at Caterpillar Inc. |
 | 🤖 **[Resume AI — Semantic Matcher](https://github.com/Isha0501/Resume-Analyzer)** | FastAPI, SentenceTransformers, PyMuPDF | Dual-score resume analyzer combining semantic similarity (70%) + keyword match (30%) with actionable feedback |
-| 🎧 **[MoodMap](https://github.com/Isha0501/MoodMap_music)** | Spotify API, Python | Translates abstract feelings into a personalized Spotify frequency vector for pinpoint music recommendations |
+| 🎧 **[MoodMap](https://github.com/Isha0501/MoodMap_music)** | Python | Translates abstract feelings into a personalized Spotify frequency vector for pinpoint music recommendations |
 
 ---
 
@@ -22,11 +22,11 @@ Most people pick a lane. I picked several. I've built predictive maintenance sys
 
 | Category | Tools |
 |---|---|
-| **Languages** | Python, R, SQL, Java |
+| **Languages** | Python, R, SQL, Java, C, Cpp |
 | **ML & AI** | PyTorch, scikit-learn, XGBoost, CatBoost, spaCy, PaddleOCR, PyMuPDF, NLLB-200, Llama, HuggingFace, SentenceTransformers, Optuna, pandas, NumPy |
 | **MLOps & Cloud** | Apache Airflow, Docker, FastAPI, GCP, AWS |
 | **Databases** | MySQL, MS SQL Server, MongoDB |
-| **Viz & Frontend** | Streamlit, Plotly, React.js, Power BI |
+| **Viz & Frontend** | Streamlit, Plotly, React.js |
 | **Certifications** | [AWS Cloud Practitioner](https://www.credly.com/badges/b91c0480-9f18-46d2-9ff1-e25ef62ece65/public_url) · [AWS AI Practitioner](https://www.credly.com/badges/167f473c-570a-48d4-aa96-e5b75d4c6541/linked_in_profile) · [Certified Ethical Hacker (CEH)](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=mpVJXh5xoEOB878FF8R1wwLqEuKzSB2aATBgd7v8mWI=) |
 
 ---
